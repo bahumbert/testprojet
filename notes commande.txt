@@ -1,0 +1,5 @@
+
+
+svn log -v https://github.com/bahumbert/testprojet --xml > test.txt
+
+On peut utiliser un intervalle "-r"
